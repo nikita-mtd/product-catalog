@@ -18,6 +18,23 @@
 *.zip
 *.tar.gz
 *.rar
+*.idea
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.gradle/
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/dictionaries/
+.idea/google-java-format.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+build.gradle
+build/generated/
+build/reports/
+build/resources/
+build/test-results/
+build/tmp/
